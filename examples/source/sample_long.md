@@ -1,5 +1,5 @@
-# Craig Davis
-## Senior PHP Developer, UX Director
+# Ryan Johnson
+## Senior Ruby Developer, Software Developer
 
 > [Download PDF](resume.pdf)  
 > [craig@there4development.com](craig@there4development.com)  
