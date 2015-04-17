@@ -1,5 +1,5 @@
 # Ryan Johnson
-## Senior Rails Developer, Software Engineer
+## Ruby Developer
 
 > [Download PDF](resume.pdf)  
 > [ryan@beeptc.com](ryan@beeptc.com)  
@@ -49,7 +49,7 @@ Passionate, career-focused, rails dev looking for mid to senior level position a
 ### Experience {#experience}
 
 [Mobi Wireless Management](http://mobiwm.com)
-: *Senior Software Developer*
+: *Software Developer*
   __2011-Current__
   My team develops new features for internal and external customers, and maintains over 15 existing Rails apps of varying size and complexity. I enjoy improving and adapting the existing apps that power the simplified management of corporate wireless devices for our customers. While at MOBI, I have learned so much in a short amount of time, and had the privilege of working on a wide variety of projects alongside the best technical people around in Indy. Ask me for more detail about my accomplishments at MOBI!
 
@@ -72,7 +72,8 @@ Passionate, career-focused, rails dev looking for mid to senior level position a
 
 ### Education {#education}
 
-Graduated Mt. Vernon High School, 2002. Currently attending part time online at [IUPUI](http://iupui.edu), pursuing a Bachelors in Media Arts and Sciences. (I love creating music!) 
+Graduated Mt. Vernon High School, 2002. 
+[IUPUI](http://iupui.edu), Bachelors in Media Arts and Sciences. Expected Graduation Date: 2016
 
 ------
 
