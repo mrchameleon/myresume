@@ -1,15 +1,15 @@
 # Ryan Johnson
 ## Ruby Developer
 
-> [Download PDF](resume.pdf)  
-> [ryan@beeptc.com](ryan@beeptc.com)  
+> [Download PDF](resume.pdf)
+> [ryan@beeptc.com](ryan@beeptc.com)
 > (317) 437-9710
 
 ------
 
 ### Profile {#profile}
 
-Passionate, career-focused, rails dev looking for mid to senior level position at a company where making great software is at the heart of the business. 
+Passionate, career-focused, rails dev looking for mid to senior level position at a company where making great software is at the heart of the business.
 
 ------
 
@@ -21,8 +21,8 @@ Passionate, career-focused, rails dev looking for mid to senior level position a
 * Design / UX
   : Building clean, responsive, usable interfaces in HTML, CSS, and JS.
 
-* Project Management
-  : Proven ability to lead and manage a wide variety of IT and software development projects.
+* Security
+  : Experienced in infrastructure and security as well as development.
 
 -------
 
@@ -33,7 +33,7 @@ Passionate, career-focused, rails dev looking for mid to senior level position a
 1. JavaScript / jQuery
 1. RESTful APIs
 1. LAMP / PHP
-1. Rbenv
+1. RVM / Rbenv
 1. Capistrano
 1. MySQL / PostgreSQL
 1. HTML / CSS
@@ -42,16 +42,16 @@ Passionate, career-focused, rails dev looking for mid to senior level position a
 1. KML / Geospatial Data
 1. Google Maps API
 1. Git / Mercurial
-1. Linux / Vim / Bash
+1. OS X / Linux / Vim
 
 ------
 
 ### Experience {#experience}
 
-[Mobi Wireless Management](http://mobiwm.com)
+[MOBI Wireless Management](http://mobiwm.com)
 : *Software Developer*
   __2011-Current__
-  My team develops new features for internal and external customers, and maintains over 15 existing Rails apps of varying size and complexity. I enjoy improving and adapting the existing apps that power the simplified management of corporate wireless devices for our customers. While at MOBI, I have learned so much in a short amount of time, and had the privilege of working on a wide variety of projects alongside the best technical people around in Indy. Ask me for more detail about my accomplishments at MOBI!
+  My team develops new features for internal and external customers of our MOBI wireless management portal. We also maintain several legacy Rails apps of varying size and complexity. I enjoy improving and creating new features for the apps that power the simplified management of corporate wireless devices for our customers. While at MOBI, I have learned so much in a short amount of time, and had the privilege of working alongside the best technical people around in Indy. Ask me for more detail about my accomplishments at MOBI!
 
 [Beep Technology Consulting](http://beeptc.com)
 : *Owner / Creative Director*
@@ -61,7 +61,7 @@ Passionate, career-focused, rails dev looking for mid to senior level position a
 [Perpetual Technologies Inc.](http://pti.net)
 : *Unix Administrator*
   __2010-2011__
-  Unix admininstrator for the company's client: Department of Defense subagency, DFAS. Managed access rights and handled account issues on 100+ UNIX servers and various Oracle database servers. Respond to system performance issues and outages by troubleshooting and restarting services as needed. Performed Tier II Support for the client's “ePortal”, the DFAS intranet site based on an Oracle/Tomcat stack. Obtained Goverment Clearance and CompTIA Security+ Certification. Participated in a security auditing project for the Apache and Tomcat based web server environment. Work with the Tier I helpdesk as needed to quickly resolve user account, web component errors, and permissions issues when Tier I was unable to resolve using normal means. 
+  Unix admininstrator for the company's client: Department of Defense subagency, DFAS. Managed access rights and handled account issues on 100+ UNIX servers and various Oracle database servers. Respond to system performance issues and outages by troubleshooting and restarting services as needed. Performed Tier II Support for the client's “ePortal”, the DFAS intranet site based on an Oracle/Tomcat stack. Obtained Goverment Clearance and CompTIA Security+ Certification. Participated in a security auditing project for the Apache and Tomcat based web server environment. Work with the Tier I helpdesk as needed to quickly resolve user account, web component errors, and permissions issues when Tier I was unable to resolve using normal means.
 
 [iTech Digital](http://itechdigital.com)
 : *DVR Software/Hardware Support*
@@ -72,7 +72,7 @@ Passionate, career-focused, rails dev looking for mid to senior level position a
 
 ### Education {#education}
 
-Graduated Mt. Vernon High School, 2002. 
+Graduated Mt. Vernon High School, 2002.
 [IUPUI](http://iupui.edu), Bachelors in Media Arts and Sciences. Expected Graduation Date: 2016
 
 ------
