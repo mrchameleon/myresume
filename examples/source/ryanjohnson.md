@@ -9,17 +9,17 @@
 
 ### Profile {#profile}
 
-Passionate, career-focused, rails dev looking for mid to senior level position at a company where making great software is at the heart of the business.
+Passionate developer, technical handyman, and startup enthusiast. I'm looking for a challenging position at a forward thinking organization where making great software is at the heart of the business.
 
 ------
 
 ### Skills {#skills}
 
 * Ruby
-  : 3 years experience in building applications in Ruby/Rails.
+  : 4 of years experience building applications in Ruby/Rails
 
 * Design / UX
-  : Building clean, responsive, usable interfaces in HTML, CSS, and JS.
+  : Building clean, responsive, and usable interfaces in HTML, CSS, and JS.
 
 * Security
   : Experienced in infrastructure and security as well as development.
@@ -54,9 +54,9 @@ Passionate, career-focused, rails dev looking for mid to senior level position a
   My team develops new features for internal and external customers of our MOBI wireless management portal. We also maintain several legacy Rails apps of varying size and complexity. I enjoy improving and creating new features for the apps that power the simplified management of corporate wireless devices for our customers. While at MOBI, I have learned so much in a short amount of time, and had the privilege of working alongside the best technical people around in Indy. Ask me for more detail about my accomplishments at MOBI!
 
 [Beep Technology Consulting](http://beeptc.com)
-: *Owner / Creative Director*
+: *Owner/Creative Director*
   __2005-Current__
-  I got my start in the web/IT industry by doing web design, graphic design, and computer repairs for residential clients in my early 20's. My business currently does web development and IT support for select clients. In the past ten years or so of my career, I've worked as an independent IT Consultant for companies such as: Netkaizen, [Theoris](http://theoris.com), [Anaclim](http://anaclim.com), and [Eli Lilly](http://lilly.com). In those roles, I supported end users on a wide variety of hardware, software, and enterprise applications.
+  I got my start in the web/IT industry by doing web design, graphic design, and computer repairs for residential clients. This led me to form 'BeepTC' to market myself as a freelancer in that general area. I currently focus only on web development and managed IT services for a select few clients, as my available freelancing time is limited. In the past ten years or so of my career, I've worked as an independent IT Consultant for companies such as: [Theoris](http://theoris.com), [Anaclim](http://anaclim.com), [Eli Lilly](http://lilly.com), and the DoD. In those roles, I supported end users on a wide variety of hardware, software, and enterprise applications.
 
 [Perpetual Technologies Inc.](http://pti.net)
 : *Unix Administrator*
