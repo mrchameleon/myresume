@@ -1,3 +1,7 @@
+# Ryan Johnson's Resume Repo
+The markdown source for my resume is in examples/source/ryanjohnson.md
+
+# Built with...
 # Markdown Resume Generator
 
 Turn a simple Markdown document into an elegant resume with both a perfect

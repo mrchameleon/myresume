@@ -56,7 +56,7 @@ Passionate developer, technical handyman, and startup enthusiast. I'm looking fo
 [Beep Technology Consulting](http://beeptc.com)
 : *Owner/Creative Director*
   __2005-Current__
-  I got my start in the web/IT industry by doing web design, graphic design, and computer repairs for residential clients. This led me to form 'BeepTC' to market myself as a freelancer in that general area. I currently focus only on web development and managed IT services for a select few clients, as my available freelancing time is limited. In the past ten years or so of my career, I've worked as an independent IT Consultant for companies such as: [Theoris](http://theoris.com), [Anaclim](http://anaclim.com), [Eli Lilly](http://lilly.com), and the DoD. In those roles, I supported end users on a wide variety of hardware, software, and enterprise applications.
+  I got my start in the web/IT industry by doing web design, graphic design, and computer repairs for residential clients. In the past ten years or so of my career, I performed contract work with companies such as: [Theoris](http://theoris.com), [Anaclim](http://anaclim.com), and [Eli Lilly](http://lilly.com). In those roles, I gained the knowledge and expertise to successfully support any small business in their IT needs. This led me to form BeepTC to market myself as a freelancer in that general area. My long term goal is to turn BeepTC into a successful custom software development consultancy or IT managed services provider.
 
 [Perpetual Technologies Inc.](http://pti.net)
 : *Unix Administrator*
@@ -66,14 +66,16 @@ Passionate developer, technical handyman, and startup enthusiast. I'm looking fo
 [iTech Digital](http://itechdigital.com)
 : *DVR Software/Hardware Support*
   __2009-2010__
-  Provided technical support and training to end users. Provided support and troubleshooting by email and over the phone for a surveillance management solution. Became familiar with physical security, security cameras, electrical systems, firewalls, sensors, and DVR equipment. Worked with manager to do QA testing on remote server monitoring and remote server management projects. Assisted on a company website revamp project. Updated the company web presence with a focus on providing accessible support forms to end users, FAQs, and better search engine visibility. Created various applications on my own direction to manage customers as well as streamline company processes. (Ask me for details!)
+  Provided support, training, and troubleshooting for a DVR software+hardware solution. Became familiar with physical security, security cameras, electrical systems, firewalls, sensors, and DVR equipment. Worked with manager to do QA testing on remote server monitoring and remote server management projects. Assisted on a company website revamp project. Updated the company web presence with a focus on providing accessible support forms to end users, FAQs, and better search engine visibility. Created various applications on my own direction to manage customers as well as streamline company processes. (Ask me for details!)
 
 ------
 
 ### Education {#education}
 
-Graduated Mt. Vernon High School, 2002.
-[IUPUI](http://iupui.edu), Bachelors in Media Arts and Sciences. Expected Graduation Date: 2016
+[Indiana University](http://iu.edu)
+: *Bachelors in Media Arts and Sciences*
+  __Expected Graduation: 2018__
+  Specialization in web development and audio production.
 
 ------
 
