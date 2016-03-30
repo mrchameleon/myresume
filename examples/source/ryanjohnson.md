@@ -2,66 +2,64 @@
 ## Ruby Developer
 
 > [Download PDF](resume.pdf)
-> [ryan@beeptc.com](ryan@beeptc.com)
+> [rjs6143@gmail.com](rjs6143@gmail.com)
 > (317) 437-9710
 
 ------
 
-### Profile {#profile}
+### Summary {#summary}
 
-Passionate developer, technical handyman, and startup enthusiast. I'm looking for a challenging position at a forward thinking organization where making great software is at the heart of the business.
+Senior Ruby/Rails developer. 10 years of experience in IT, Security, and Support roles.
 
 ------
 
 ### Skills {#skills}
 
 * Ruby
-  : 4 of years experience building applications in Ruby/Rails
+  : 4+ years of professional experience building apps with Ruby/Rails
 
-* Design / UX
-  : Building clean, responsive, and usable interfaces in HTML, CSS, and JS.
+* Design
+  : I like creating minimal, responsive, and user friendly interfaces
 
-* Security
-  : Experienced in infrastructure and security as well as development.
+* IT / Sysadmin
+  : Many years of professional IT experience in a variety of roles.
 
 -------
 
-### Technical {#technical}
+### Tech {#tech}
 
 1. Ruby
-1. Ruby on Rails
-1. JavaScript / jQuery
+1. Rails
+1. Unicorn / Nginx
 1. RESTful APIs
-1. LAMP / PHP
-1. RVM / Rbenv
-1. Capistrano
-1. MySQL / PostgreSQL
-1. HTML / CSS
-1. Python / Django
-1. Amazon AWS / Heroku
-1. KML / Geospatial Data
-1. Google Maps API
+1. Bash / RVM / Rbenv
 1. Git / Mercurial
-1. OS X / Linux / Vim
+1. PostgreSQL / MySQL
+1. JavaScript / jQuery
+1. Linux/Unix Administration
+1. Amazon AWS / DigitalOcean
+1. Python / Django
+1. Ember / Node / React (Beginner)
+
 
 ------
 
 ### Experience {#experience}
 
+[Republic Airways Holdings](http://rjet.com)
+: *Software Developer*
+ __2015-Current__
+  Developer for the CrewLife mobile app that assists pilots and flight attendants in viewing their schedule on their phone. I am responsible for the backend Rails app, which consists of an admin interface, data synchronization workers, and an API for mobile clients. I develop changes to the app and API, write tests to cover new features and behavior, and assist with mobile app testing during new releases. Integrated a web-only shopping cart feature for crew members to order their annual uniform allocations. Field support/feature requests from app users via ticketing system. Agile process: attend daily standup, feature request/prioritization, and sprint review meetings.
+
 [MOBI Wireless Management](http://mobiwm.com)
 : *Software Developer*
-  __2011-Current__
-  My team develops new features for internal and external customers of our MOBI wireless management portal. We also maintain several legacy Rails apps of varying size and complexity. I enjoy improving and creating new features for the apps that power the simplified management of corporate wireless devices for our customers. While at MOBI, I have learned so much in a short amount of time, and had the privilege of working alongside the best technical people around in Indy. Ask me for more detail about my accomplishments at MOBI!
-
-[Beep Technology Consulting](http://beeptc.com)
-: *Owner/Creative Director*
-  __2005-Current__
-  I got my start in the web/IT industry by doing web design, graphic design, and computer repairs for residential clients. In the past ten years or so of my career, I performed contract work with companies such as: [Theoris](http://theoris.com), [Anaclim](http://anaclim.com), and [Eli Lilly](http://lilly.com). In those roles, I gained the knowledge and expertise to successfully support any small business in their IT needs. This led me to form BeepTC to market myself as a freelancer in that general area. My long term goal is to turn BeepTC into a successful custom software development consultancy or IT managed services provider.
+  __2011-2015__
+  Developed new features for internal and external customers of our MOBI wireless management portal. Created new features for the other smaller, internal apps that powered the simplified management of corporate wireless devices for MOBI customers. Maintained several legacy Rails apps of varying size and complexity. Developed a deployment tracking app which supported the onsite deployment of over 15,000 smartphones at a customer site. Assisted in server/infrastructure support for application hosting, as well as security related concerns.  Gave presentations at lunch and learns and team conference on development and information security.
 
 [Perpetual Technologies Inc.](http://pti.net)
 : *Unix Administrator*
   __2010-2011__
-  Unix admininstrator for the company's client: Department of Defense subagency, DFAS. Managed access rights and handled account issues on 100+ UNIX servers and various Oracle database servers. Respond to system performance issues and outages by troubleshooting and restarting services as needed. Performed Tier II Support for the client's “ePortal”, the DFAS intranet site based on an Oracle/Tomcat stack. Obtained Goverment Clearance and CompTIA Security+ Certification. Participated in a security auditing project for the Apache and Tomcat based web server environment. Work with the Tier I helpdesk as needed to quickly resolve user account, web component errors, and permissions issues when Tier I was unable to resolve using normal means.
+  Unix admininstrator for the company's client: Department of Defense subagency, DFAS. Managed access rights and handled account issues on 100+ UNIX servers and various Oracle database servers. Responded to system performance issues and outages by troubleshooting and restarting services as needed. Performed Tier II Support for the client's “ePortal”, the DFAS intranet site based on an Oracle/Tomcat stack. Obtained Goverment Clearance and CompTIA Security+ Certification. Participated in a security auditing project for the Apache and Tomcat based web server environment. Work with the Tier I helpdesk as needed to quickly resolve user account, web component errors, and permissions issues when Tier I was unable to resolve using normal means.
 
 [iTech Digital](http://itechdigital.com)
 : *DVR Software/Hardware Support*
@@ -81,6 +79,12 @@ Passionate developer, technical handyman, and startup enthusiast. I'm looking fo
 
 ### Footer {#footer}
 
-Ryan Johnson -- [ryan@beeptc.com](ryan@beeptc.com) -- (317) 437-9710
+Ryan Johnson -- [rjs6143@gmail.com](rjs6143@gmail.com) -- (317) 437-9710
+
+Resume created using [markdown-resume - https://github.com/there4/markdown-resume](https://github.com/there4/markdown-resume)
 
 ------
+
+This page is intentionally left blank.
+
+Have a nice day!
