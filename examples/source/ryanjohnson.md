@@ -1,7 +1,7 @@
 # Ryan Johnson
 ## Ruby Developer
 
-> [Download PDF](resume.pdf)
+> [Download PDF](ryanjohnson.pdf)
 > [rjs6143@gmail.com](rjs6143@gmail.com)
 > (317) 437-9710
 
@@ -9,7 +9,7 @@
 
 ### Summary {#summary}
 
-Senior Ruby/Rails developer. 10 years of experience in IT, Security, and Support roles.
+Well-rounded, passionate software developer with over 4 years experience developing and maintaining ruby based web applications
 
 ------
 
@@ -18,11 +18,11 @@ Senior Ruby/Rails developer. 10 years of experience in IT, Security, and Support
 * Ruby
   : 4+ years of professional experience building apps with Ruby/Rails
 
-* Design
-  : I like creating minimal, responsive, and user friendly interfaces
+* UI / UX
+  : Experience designing cleanly-coded, user friendly interfaces
 
 * IT / Sysadmin
-  : Many years of professional IT experience in a variety of roles.
+  : Several years of professional IT experience in a variety of roles
 
 -------
 
@@ -54,17 +54,17 @@ Senior Ruby/Rails developer. 10 years of experience in IT, Security, and Support
 [MOBI Wireless Management](http://mobiwm.com)
 : *Software Developer*
   __2011-2015__
-  Developed new features for internal and external customers of our MOBI wireless management portal. Created new features for the other smaller, internal apps that powered the simplified management of corporate wireless devices for MOBI customers. Maintained several legacy Rails apps of varying size and complexity. Developed a deployment tracking app which supported the onsite deployment of over 15,000 smartphones at a customer site. Assisted in server/infrastructure support for application hosting, as well as security related concerns.  Gave presentations at lunch and learns and team conference on development and information security.
+  Developed new features for internal and external customers of the MOBI portal product. Also maintained various other internal apps that powered the simplified management of corporate wireless devices for MOBI customers. The roughly 10+ apps I worked on ranged in Ruby/Rails versions, size, and complexity. Developed a deployment tracking app which supported the onsite deployment of over 15,000 smartphones at a customer site. Assisted in server/infrastructure support for application hosting, upgrades, and app-related security  concerns.  Presented at lunch and learns and our team conference, MOBIConf, on development and information security topics.
 
 [Perpetual Technologies Inc.](http://pti.net)
 : *Unix Administrator*
   __2010-2011__
-  Unix admininstrator for the company's client: Department of Defense subagency, DFAS. Managed access rights and handled account issues on 100+ UNIX servers and various Oracle database servers. Responded to system performance issues and outages by troubleshooting and restarting services as needed. Performed Tier II Support for the client's “ePortal”, the DFAS intranet site based on an Oracle/Tomcat stack. Obtained Goverment Clearance and CompTIA Security+ Certification. Participated in a security auditing project for the Apache and Tomcat based web server environment. Work with the Tier I helpdesk as needed to quickly resolve user account, web component errors, and permissions issues when Tier I was unable to resolve using normal means.
+  Unix admininstrator for PTI's client: Department of Defense subagency, DFAS. Managed user account permissions and access on 100+ UNIX servers and Oracle DB instances. Responded to system performance issues and outages by troubleshooting and restarting services as needed. Performed Tier II Support for the ePortal, the DFAS intranet site based on an Oracle/Tomcat stack. Obtained Goverment Clearance and CompTIA Security+ Certification. Participated in a security auditing project for the Apache and Tomcat based web server environment. Work with the Tier I helpdesk as needed to quickly resolve user account, web component errors, and permissions issues when Tier I was unable to resolve using normal means.
 
 [iTech Digital](http://itechdigital.com)
 : *DVR Software/Hardware Support*
   __2009-2010__
-  Provided support, training, and troubleshooting for a DVR software+hardware solution. Became familiar with physical security, security cameras, electrical systems, firewalls, sensors, and DVR equipment. Worked with manager to do QA testing on remote server monitoring and remote server management projects. Assisted on a company website revamp project. Updated the company web presence with a focus on providing accessible support forms to end users, FAQs, and better search engine visibility. Created various applications on my own direction to manage customers as well as streamline company processes. (Ask me for details!)
+  Provided support, training, and troubleshooting for a DVR software+hardware solution. Became familiar with physical security, security cameras, electrical systems, firewalls, sensors, and DVR equipment. Worked with manager to do QA testing on remote server monitoring and remote server management projects. Assisted on a company website revamp project. Updated the company web presence with a focus on providing accessible support forms to end users, FAQs, and better search engine visibility. In this position, I self-taught myself PHP and MySQL and developed various proof of concept applications to help iTech Digital manage customer data, as well as streamline some company processes. (Ask me for details!)
 
 ------
 
