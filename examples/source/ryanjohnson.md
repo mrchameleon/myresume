@@ -22,8 +22,8 @@ Software craftsman with 5 years experience of turning business needs into workin
 * Javascript
   : Experience designing dynamic, user friendly interfaces. Beginning to learn and use JS frameworks.
 
-* IT / Customer Support
-  : 6 years as an IT professional, customer service experience in a variety of roles
+* Communication
+  : Collab with colleagues to discover requirements, prioritize features, and discuss solution design.
 
 -------
 
