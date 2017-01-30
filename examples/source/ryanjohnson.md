@@ -9,64 +9,67 @@
 
 ### Summary {#summary}
 
-Well-rounded, passionate software developer with over 4 years experience developing and maintaining ruby based web applications
+Software craftsman with 5 years experience of turning business needs into working solutions. Specialized in Ruby/Rails backend and API development, but adaptable and skilled working in frontend and devops related areas as needed.
 
 ------
+
 
 ### Skills {#skills}
 
-* Ruby
-  : 4+ years of professional experience building apps with Ruby/Rails
+* Ruby on Rails
+  : Delivers clean, maintainable, well-tested code. 
 
-* UI / UX
-  : Experience designing cleanly-coded, user friendly interfaces
+* Javascript
+  : Experience designing dynamic, user friendly interfaces. Beginning to learn and use JS frameworks.
 
-* IT / Sysadmin
-  : Several years of professional IT experience in a variety of roles
+* IT / Customer Support
+  : 6 years as an IT professional, customer service experience in a variety of roles
 
 -------
 
+
 ### Tech {#tech}
 
-1. Ruby
-1. Rails
-1. Unicorn / Nginx
-1. RESTful APIs
-1. Bash / RVM / Rbenv
-1. Git / Mercurial
-1. PostgreSQL / MySQL
-1. JavaScript / jQuery
-1. Linux/Unix Administration
-1. Amazon AWS / DigitalOcean
-1. Python / Django
-1. Ember / Node / React (Beginner)
-
+1. EXPERT
+1. INTERMEDIATE
+1. JUNIOR
+1. Ruby/Rails
+1. Javascript
+1. React
+1. Git
+1. Nginx / Unicorn
+1. Angular / Ionic
+1. REST APIs
+1. SQL / MySQL / Postgres
+1. System Administration
 
 ------
+
 
 ### Experience {#experience}
 
 [Republic Airways Holdings](http://rjet.com)
 : *Software Developer*
  __2015-Current__
-  Developer for the CrewLife mobile app that assists pilots and flight attendants in viewing their schedule on their phone. I am responsible for the backend Rails app, which consists of an admin interface, data synchronization workers, and an API for mobile clients. I develop changes to the app and API, write tests to cover new features and behavior, and assist with mobile app testing during new releases. Integrated a web-only shopping cart feature for crew members to order their annual uniform allocations. Field support/feature requests from app users via ticketing system. Agile process: attend daily standup, feature request/prioritization, and sprint review meetings.
+  Owned the backend developement of the CrewLife mobile app. The app provides a central work/life management capability for pilots and flight attendants with scheduling, communication, and benefits related information at their fingertips. Worked with external vendor and internal stakeholders in an agile environment to take feature requests from ideas to working solutions. Delivered key features that automated processes to provide savings by reducing crew support overhead performed by call center staff. Leveraged sidekiq workers to monitor ETL data import and processing jobs. Built single page app to allow crew to order yearly uniform allocations. Ordering backend developed to be highly configurable to meet complex business/ordering rules.
 
 [MOBI Wireless Management](http://mobiwm.com)
 : *Software Developer*
   __2011-2015__
-  Developed new features for internal and external customers of the MOBI portal product. Also maintained various other internal apps that powered the simplified management of corporate wireless devices for MOBI customers. The roughly 10+ apps I worked on ranged in Ruby/Rails versions, size, and complexity. Developed a deployment tracking app which supported the onsite deployment of over 15,000 smartphones at a customer site. Assisted in server/infrastructure support for application hosting, upgrades, and app-related security  concerns.  Presented at lunch and learns and our team conference, MOBIConf, on development and information security topics.
+  Maintained and developed new features for many distinct apps that enabled MOBI's enterprise customers to easily manage their mobility programs. Integrated with carrier APIs and developed internal custom APIs for internal and partner use. Maintained many legacy and microservice style apps running on older versions of Ruby/Rails. Gained experience in working with outdated versions and updating to newer versions. Created maintenance plans and worked with server admin to apply security patches and updates on staging and production services. Presented at lunch and learns and team conference. Hosted and participated in hack nights and ruby meetup groups. Primary developer on Deployments app used to track massive smartphone upgrades performed at a client's location. Develop barcode scanning and inventory tracking for the logistics of shipping nearly 15,000 smartphones to the multiple sites. The various tools within this app's domain saved in kitting and labor costs by automated manual data tracking and device activation process. (Ask me!)
 
 [Perpetual Technologies Inc.](http://pti.net)
 : *Unix Administrator*
   __2010-2011__
-  Unix admininstrator for PTI's client: Department of Defense subagency, DFAS. Managed user account permissions and access on 100+ UNIX servers and Oracle DB instances. Responded to system performance issues and outages by troubleshooting and restarting services as needed. Performed Tier II Support for the ePortal, the DFAS intranet site based on an Oracle/Tomcat stack. Obtained Goverment Clearance and CompTIA Security+ Certification. Participated in a security auditing project for the Apache and Tomcat based web server environment. Work with the Tier I helpdesk as needed to quickly resolve user account, web component errors, and permissions issues when Tier I was unable to resolve using normal means.
+  Performed admin and infrastructure support for the DFAS agency's intranet portal with 10,000+ daily active users. Quickly address account access issues esclated from Tier I support. Used ticketing system to manage request workload. Performed user management and access control auditing duties for enduser accounts on 100+ Unix servers and Oracle DB instances. Obtained Secret Clearance and CompTIA Security+. Responded to urgent system performance issues and outages by troubleshooting and restarting services as needed. Worked with team to complete a security auditing project for the Apache/Tomcat enviornment, performing necessary infrastrucutre and applciation updates to meet STIG standards.
 
 [iTech Digital](http://itechdigital.com)
 : *DVR Software/Hardware Support*
   __2009-2010__
-  Provided support, training, and troubleshooting for a DVR software+hardware solution. Became familiar with physical security, security cameras, electrical systems, firewalls, sensors, and DVR equipment. Worked with manager to do QA testing on remote server monitoring and remote server management projects. Assisted on a company website revamp project. Updated the company web presence with a focus on providing accessible support forms to end users, FAQs, and better search engine visibility. In this position, I self-taught myself PHP and MySQL and developed various proof of concept applications to help iTech Digital manage customer data, as well as streamline some company processes. (Ask me for details!)
+  Provided technical and client support for a DVR software + hardware surveillance solution. Helped clients over phone and sometimes on site by diagnosing issues with routers, wiring, cameras, fuse boxes, sensors, and DVR server equipment. Assisted in QA testing various existing and in-development software products. Revamped marketing website content, SEO, and design. Developed internal proof of concept apps for site-planning, customer data mangement, and data visualization (Ask me!)
 
 ------
+
 
 ### Education {#education}
 
